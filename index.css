@@ -1045,10 +1045,10 @@ footer .copyright{
     header {
         padding: 10px 30px; 
     }
-    #cart {
-        top: 11%;
-        height: 700px;
-        right: 2px;
+     #cart {
+        top: 14%;
+        height: 500px;
+        
     }
     #cart-no {
         right: 26%;
