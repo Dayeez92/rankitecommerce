@@ -28,7 +28,7 @@ close.addEventListener("click",()=>{
 
 showCart.forEach(icon =>{
     icon.addEventListener("click",()=>{
-        cartDiv.style.right="30px"; 
+        cartDiv.style.right="0"; 
     })
 })
 
